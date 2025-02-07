@@ -6,6 +6,7 @@ class Solution {
             
             if (set.contains(reverseString(words[i], 0))){
                 count++;
+                set.remove(reverseString(words[i], 0));
             }
             set.add(words[i]);
         }
