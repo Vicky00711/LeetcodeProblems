@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
