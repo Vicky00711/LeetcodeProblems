@@ -12,22 +12,35 @@ class Solution {
             // }
         }
 
-        HashMap<Integer, Integer> map2= new HashMap<>();
-        for (Integer keys: map.keySet()) {
-            if (map2.containsKey(map.get(keys))){
-                int freq=map2.get(map.get(keys));
-                map2.put(map.get(keys), freq+1);
-            }
-            else {
-                map2.put(map.get(keys), 1);
-            }
+        
+
+        // HashMap<Integer, Integer> map2= new HashMap<>();
+        // for (Integer keys: map.keySet()) {
+        //     if (map2.containsKey(map.get(keys))){
+        //         int freq=map2.get(map.get(keys));
+        //         map2.put(map.get(keys), freq+1);
+        //     }
+        //     else {
+        //         map2.put(map.get(keys), 1);
+        //     }
+        // }
+    
+        HashSet<Integer> set= new HashSet<>();
+        for (Integer values:map.values()){
+            set.add(values);
         }
 
-        for(Integer values: map2.values()){
-            if (values>1){
-                return false;
-            }
+        if (map.size()==set.size()){
+            return true;
         }
-        return true;
+        else{
+            return false;
+        }
+        // for(Integer values: map2.values()){
+        //     if (values>1){
+        //         return false;
+        //     }
+        // }
+        // return true;
     }
 }
