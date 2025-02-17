@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String Matching
