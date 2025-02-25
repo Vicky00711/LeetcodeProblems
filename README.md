@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0500-keyboard-row](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/Vicky00711/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -67,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
