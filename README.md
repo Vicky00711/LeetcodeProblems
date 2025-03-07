@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Vicky00711/LeetcodeProblems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
