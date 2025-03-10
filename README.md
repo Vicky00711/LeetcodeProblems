@@ -92,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0463-island-perimeter) |
 ## Stack
 |  |
@@ -109,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
