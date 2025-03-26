@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0171-excel-sheet-column-number) |
+| [1013-fibonacci-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vicky00711/LeetcodeProblems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Array
 |  |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vicky00711/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
