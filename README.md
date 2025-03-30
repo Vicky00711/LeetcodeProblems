@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0463-island-perimeter) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/Vicky00711/LeetcodeProblems/tree/master/0500-keyboard-row) |
